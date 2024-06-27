@@ -1,13 +1,14 @@
-# google hackathon notes - based on the case provided
+# google hackathon notes
 
 # images
+
 ![hackathon](https://github.com/neontomo/google-hackathon-27-june/assets/105588693/508bcdf8-41d5-4458-9f6e-bafd0c3d8ab4)
 
-*me together with the first place winners!*
+_me together with the first place winners!_
 
 ![hackaton-cillers-27-june](https://github.com/neontomo/google-hackathon-27-june/assets/105588693/220cddf8-5761-4810-9864-38e329682b97)
 
-*my solution.*
+_my solution._
 
 # description
 
