@@ -56,5 +56,5 @@ this solution was built in 8h, and had many requirements that I was unfamiliar w
 
 ### milestone 6 (actually 5)
 
-- [] Find product in the closest store: Integrate with the power.se API in Discord to find a product
-- [] Test the integration: Make sure the integration works.
+- [ ] Find product in the closest store: Integrate with the power.se API in Discord to find a product
+- [ ] Test the integration: Make sure the integration works.
