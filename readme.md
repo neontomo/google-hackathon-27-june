@@ -32,29 +32,29 @@ this solution was built in 8h, and had many requirements that I was unfamiliar w
 
 ### milestone 1
 
-[x] Set Up Your Environment: Ensure you have the necessary tools and libraries installed to work with the Google Cloud API.
-[x] API Connection: Write code to authenticate and connect to the Google Cloud API.
-[x] Build the Chatbox: Develop a straightforward chat interface where users can input their queries.
-[x] Display Responses: Configure the chatbox to display the API's responses in a clear, readable format.
-[x] Test Your Integration: Ensure everything works seamlessly, from sending a query to receiving and displaying the response.
+- [x] Set Up Your Environment: Ensure you have the necessary tools and libraries installed to work with the Google Cloud API.
+- [x] API Connection: Write code to authenticate and connect to the Google Cloud API.
+- [x] Build the Chatbox: Develop a straightforward chat interface where users can input their queries.
+- [x] Display Responses: Configure the chatbox to display the API's responses in a clear, readable format.
+- [x] Test Your Integration: Ensure everything works seamlessly, from sending a query to receiving and displaying the response.
 
 ### milestone 2
 
-[x] Design the Interface: Use the Figma design provided and your favorite framework and create the styled chatbox interface. Include elements like input fields, send buttons, and response displays.
-[x] Set Up API Integration: Use the integration you made in track 1 with your interface.
-[x] Test and Refine: Ensure the chatbox is fully functional.
+- [x] Design the Interface: Use the Figma design provided and your favorite framework and create the styled chatbox interface. Include elements like input fields, send buttons, and response displays.
+- [x] Set Up API Integration: Use the integration you made in track 1 with your interface.
+- [x] Test and Refine: Ensure the chatbox is fully functional.
 
 ### milestone 3
 
-[x] Tracking API: Use the provided Airmee tracking API in Discord and make sure you can fetch delivery status from a tracking number.
-[x] Test the integration: Make sure the integration works.
+- [x] Tracking API: Use the provided Airmee tracking API in Discord and make sure you can fetch delivery status from a tracking number.
+- [x] Test the integration: Make sure the integration works.
 
 ### milestone 4
 
-[x] Integrate: Integrate the interface you built in step 2 with the logic from step 3.
-[x] Build the logic: Make sure you can prompt where is my package and fetch the correct details from the tracking number
+- [x] Integrate: Integrate the interface you built in step 2 with the logic from step 3.
+- [x] Build the logic: Make sure you can prompt where is my package and fetch the correct details from the tracking number
 
 ### milestone 6 (actually 5)
 
-[] Find product in the closest store: Integrate with the power.se API in Discord to find a product
-[] Test the integration: Make sure the integration works.
+- [] Find product in the closest store: Integrate with the power.se API in Discord to find a product
+- [] Test the integration: Make sure the integration works.
