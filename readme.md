@@ -1,6 +1,6 @@
 # google hackathon notes
 
-# images
+## images
 
 ![hackathon](https://github.com/neontomo/google-hackathon-27-june/assets/105588693/508bcdf8-41d5-4458-9f6e-bafd0c3d8ab4)
 
@@ -10,7 +10,7 @@ _me together with the first place winners!_
 
 _my solution._
 
-# description
+## description
 
 I won second place at a Google/Cillers hackathon on 27 june 2024.
 
